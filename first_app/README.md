@@ -1,6 +1,7 @@
-# myapp
+# first_app
 
 ref: [Write your first Flutter app, part 1 - Flutter](https://flutter.io/docs/get-started/codelab)
+
 A new Flutter project.
 
 ## Getting Started
